@@ -1,3 +1,9 @@
 # CANDEV
-2020 CANDEV data challenge \n
-Team Members: Dongjin, Gordon, Kelvin, Yassine
+
+2020 Candev Data Challenge
+
+## Team members
+
+Yassine, Dongjin, Gordon, Kelvin
+
+Did you read me?
